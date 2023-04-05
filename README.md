@@ -1,4 +1,4 @@
-<mg align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47m89ae0ueo2gp6u9goqjhtyuozn58hl7oql7xh7jc&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Pasupuleti Shilpa</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasupuleti-shilpa&label=Profile%20views&color=0e75b6&style=flat" alt="pasupuleti-shilpa" /> </p>
